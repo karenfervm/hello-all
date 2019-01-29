@@ -1,3 +1,4 @@
+
 package ejercicioArrayList2;
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -11,8 +12,8 @@ public class Principal {
 		ArrayList <Double> aReales = new ArrayList <Double> ();
 		Scanner teclado = new Scanner(System.in);
 		double dob;
-		int num,onum = 0;
-
+				int num,onum = 0;
+				System.out.println ("Soy rama2");
 		do
 		{
 			
