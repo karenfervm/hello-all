@@ -12,7 +12,7 @@ public class Principal {
 		Scanner teclado = new Scanner(System.in);
 		double dob;
 		int num,onum = 0;
-
+		system.out.println("soy una rama")
 		do
 		{
 			
