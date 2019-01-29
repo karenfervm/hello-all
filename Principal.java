@@ -1,3 +1,4 @@
+
 package ejercicioArrayList2;
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -13,6 +14,8 @@ public class Principal {
 		double dob;
 		int num,onum = 0;
 		system.out.println("soy una rama")
+		System.out.println ("Soy rama2");
+
 		do
 		{
 			
